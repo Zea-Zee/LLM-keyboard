@@ -1,0 +1,12 @@
+torch>=2.2.0
+transformers>=4.45.0
+peft>=0.13.0
+accelerate>=0.33.0
+PyQt6>=6.7.0
+pynput>=1.7.6
+pywin32>=306
+datasets>=2.20.0
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+pyperclip>=1.9.0
+psutil>=5.9.0
