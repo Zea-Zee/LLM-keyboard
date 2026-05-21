@@ -58,3 +58,12 @@ parsing/      Парсер HTML экспорта Telegram
 main.py       Точка входа
 CURSOR.md     Документация + TODO для AI-агентов
 ```
+
+## Скриншоты
+
+![Layout](media/layout_example.jpg)
+
+![Mobile View](media/mobile_view.jpg)
+
+![Settings](media/settings.jpg)
+
